@@ -11,5 +11,5 @@ The main idea is to display the locations of people who want to donate blood whe
 
 ## Screenshots
 
-<a href="url"><img src="https://mrkzgulfup.com/uploads/16232304445641.jpg" height="48" width="48" ></a>
+<a href="url"><img src="https://mrkzgulfup.com/uploads/16232304445641.jpg" height="500" width="300" ></a>
 
